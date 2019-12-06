@@ -76,7 +76,7 @@ public class MainController implements ErrorController {
   @Autowired
   @SuppressWarnings("unused")
   private Localizer localizer;
-
+   
   @Autowired
   @SuppressWarnings("unused")
   private SessionParser sessionParser;
